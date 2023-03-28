@@ -52,14 +52,14 @@ global.owner = [
 ]
 global.mods = []
 global.prems = fs.readFileSync('./rul-settings/premium.json')
-global.nomorbot = '' //pasang no bot lo 
-global.nomorown = '' //pasang no own lo
+global.nomorbot = '62889730784955' //pasang no bot lo 
+global.nomorown = '6288973078495' //pasang no own lo
 global.nomorown1 = ''
 global.nomorown2 = ''
 global.nomorwa = '0'
-global.nameown = '𝕽𝖚𝖑𝖑'
+global.nameown = 'Abil'
 global.gcname = '𝗟𝗲𝗴𝗮𝗰𝘆 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Dibuat Oleh 𝕽𝖚𝖑𝖑'
+global.author = 'Recoder By Abil'
 global.namebot = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
 global.packname2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 ꩜'
 
@@ -89,7 +89,7 @@ HIRO
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= ' ꩜'
+global.nameown1= '6287973078495'
 global.nameown2 = '  ꩜'
 
 /*============== STAFF ==============*/
@@ -97,7 +97,7 @@ global.nameown2 = '  ꩜'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝕽𝖚𝖑𝖑'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Abil'
 global.wm2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
 global.packname = wm
 global.watermark = wm
